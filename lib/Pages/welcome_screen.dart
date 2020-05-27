@@ -132,7 +132,7 @@ class _WelcomePageState extends State<WelcomePage> {
                               Padding(
                                 padding: const EdgeInsets.only(left: 120),
                                 child: Text(
-                                  'Oui',
+                                  'Ouiii',
                                   style: TextStyle(
                                     color:Colors.white,
                                     fontSize:20,
